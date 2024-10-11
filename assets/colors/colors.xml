@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    /* base Colors */
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="wildSand">#F5F5F5</color>
+    <color name="downriver">#07194B</color>
+    <color name="gallery">#F0F0F0</color>
+    <color name="silver">#B9B9B9</color>
+    <color name="hokeyPokey">#CD9A32</color>
+    <color name="red">#F00000</color>
+    <color name="mischka">#DADDE4</color>
+    <color name="mercury">#E6E6E6</color>
+    <color name="athensGray">#F5F6F8</color>
+    <color name="mountainMeadow">#22D265</color>
+    <color name="blackPearl">#091D36</color>
+    <color name="funGreen">#007E43</color>
+    <color name="rosewood">#560000</color>
+    <color name="amaranth">#EE1D52</color>
+    <color name="japaneseLaurel">#00920F</color>
+    <color name="alto">#D2D2D2</color>
+    <color name="athensGray">#E2E6EA</color>
+    <color name="electricViolet">#9747FF</color>
+    <color name="scienceBlue">#0049E1</color>
+    <color name="wildSand">#F4F4F4</color>
+
+    
+</resources>
